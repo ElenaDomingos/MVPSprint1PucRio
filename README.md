@@ -1,4 +1,4 @@
-# MVPSprint1PucRio
+# MVP Sprint1 PucRio
 A parte do back-end do MVP do Sprint1 Desenvolvimento Full-stack básico
 
 Este pequeno projeto foi realizado para o Sprint da Disciplina **Desenvolvimento Full Stack Básico**
